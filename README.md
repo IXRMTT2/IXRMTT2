@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://preview.redd.it/5juhbx6z1ll71.gif?width=668&auto=webp&s=941432154b52d0f5885c705c20c4a794270a950e"  />
+  <img height="200" src="https://preview.redd.it/5juhbx6z1ll71.gif?width=668&auto=webp&s=941432154b52d0f5885c705c20c4a794270a950e"  />
 </div>
 
 ###
